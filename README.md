@@ -4,4 +4,4 @@ Form S-1 is an SEC filing used by companies planning on going public. Companies 
 
 Understandably, these forms are highly scrutinized. The Office of Management and Budget estimates that to complete an S1 requires 972.32 hours of effort for the corporate registrant who intends to offer securities.
 
-With the time and detailed required to complete the form, the SEC in turn must scrutinize submitted forms to ensure that they include the necessary information. Using topic modeling, I will categorize S-1 forms as an initial processor for the SEC.
+With the time and detailed required to complete the form, the SEC in turn must scrutinize submitted forms to ensure that they include the necessary information. Using topic modeling and summarization, I will develop an initial tool to help the SEC process S-1s.
